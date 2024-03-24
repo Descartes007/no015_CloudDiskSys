@@ -9,6 +9,6 @@
         </property>
 <!--        你的账号和密码-->
         <property name="user">root</property>
-        <property name="password">1025</property>
+        <property name="password">123456</property>
     </default-config>
 </c3p0-config>
